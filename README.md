@@ -5,8 +5,9 @@ Experience the magic of love with our fun and interactive love calculator with a
 ####Responsive
 
 ![Image Description](https://github.com/ShailiSahrawat/Love---Calculator/blob/main/Screenshot%20(49).png)
+![Image Description](https://github.com/ShailiSahrawat/Love---Calculator/blob/main/Screenshot%20(50).png)
 
-###Made By
+# Made By
 [@shailiSahrawat](https://github.com/shailisahrawat)
 
 
